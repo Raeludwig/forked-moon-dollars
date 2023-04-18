@@ -1,0 +1,17 @@
+<link rel="stylesheet"  href="/css/style.css">
+{{#if isLoggedIn}}
+<div class="welcome">
+  <h2>Welcome, {{user.username}}!</h2>
+</div>
+{{/if}}
+<div class="container">
+  <div class="message">
+    <h2>Welcome to MoonDollar</h2>
+    <p>Start putting together your favorite coffee drink recipe!</p>
+    <p>Get inspired by our drink recommendations or get creative by making your own.</p>
+  </div>
+</div>
+{{#unless isLoggedIn}}
+  <br />
+  {{!-- <a class='btn' href='/signup'>Sign Up</a> --}}
+{{/unless}}

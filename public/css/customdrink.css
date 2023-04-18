@@ -1,0 +1,77 @@
+
+
+.wrapper {
+    border: 8px solid #796153;
+    border-radius: 10%;
+    width: 40%;
+    margin: 0 auto;
+    background-color: #efd2cb;
+    color: #8b2121;
+}
+
+.custom-card {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: #8b2121;
+}
+.wrapper h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: #8b2121;
+}
+
+.checkboxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-left: 4px solid #796153;
+    padding: 10px;
+    color: #8b2121;
+}
+
+label {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;   /* set label as an inline element */
+    text-align: left;       /* align text to the right */
+    width: 200px;            /* add some width for spacing */
+    color: #8b2121;
+  }
+  
+  input[type="checkbox"] {
+    display: inline-block;   /* set checkbox as an inline element */
+    vertical-align: middle;  /* align checkbox with the middle of label */
+  }
+
+  #drink-name {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #023262;
+    width: 20%;
+    height: 3.23rem;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+  }
+  
+  .submit-btn {
+    display: block;
+    margin: 0 auto;
+    color: #8b2121;
+    width: 20%;
+    height: 3.23rem;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+    background: #f1b83d;
+    color: #023262;
+    font-size: 1.3rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+  }
+  
