@@ -63,3 +63,13 @@ https://whispering-garden-84047.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/118871515/230536023-71bd853c-3346-4450-abaf-5509e03852c8.png)
 ![image](https://user-images.githubusercontent.com/118871515/230536077-a8bfc6e9-5a28-4d3e-97d8-0ac2a47809c1.png)
 
+## Our Team
+
+### **Rae Ludwig** ###
+> GitHub [@Raeludwig](https://github.com/raeludwig) &nbsp;&middot;&nbsp;
+### **Eli Palma** ###
+> GitHub [@Epalma98](https://github.com/Epalma98) &nbsp;&middot;&nbsp;
+### **Hanah Ratican** ###
+> GitHub [@hanahratican](https://github.com/hanahratican) &nbsp;&middot;&nbsp;
+### **Ruben F** ###
+> GitHub [@RubenFr74](https://github.com/RubenFr74) &nbsp;&middot;&nbsp;
